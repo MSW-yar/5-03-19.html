@@ -1,0 +1,17 @@
+.chicken {
+  color: blue;
+  text-align: center;
+  font-size: 40px;
+
+}
+
+#baby {
+  color: pink;
+  font-size: 50px;
+}
+
+p[dabb = 'champo']{
+  font-size: 30px;
+  color: purple;
+
+  }
